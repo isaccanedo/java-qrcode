@@ -8,5 +8,9 @@
 # Como é gerado o arquivo QRCode?
 A classe Encrypt é responsável por encriptar o nome do arquivo a ser gerado com um Hash utilizando as informações do dia, mês, ano, hora, minutos e segundos.
 
+# Exemplo do QRCode gerado
+
+<img src="https://github.com/isaccanedo/java-qrcode/blob/master/aec463698d086fa9114509cc14bc732f.png">
+
 
 
