@@ -10,7 +10,7 @@ A classe Encrypt é responsável por encriptar o nome do arquivo a ser gerado co
 
 # Exemplo do QRCode gerado
 
-<img src="https://github.com/isaccanedo/java-qrcode/blob/master/aec463698d086fa9114509cc14bc732f.png">
+<img src="https://github.com/isaccanedo/java-qrcode/blob/master/ac2c53c29352f1a9fd91db92adec59c8.png">
 
 
 
